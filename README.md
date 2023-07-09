@@ -1,1 +1,1 @@
-![Ekran görüntüsü](./assets/screenshot.jpg)
+![Ekran görüntüsü](./src/assets/screenshot.jpg)
